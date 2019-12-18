@@ -1,2 +1,2 @@
 # sun-kyung.github.io
-이선경 소개
+이선경의 개인 프로젝트
